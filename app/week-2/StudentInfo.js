@@ -5,7 +5,7 @@ export default function StudentInfo() {
     <main>
       <section>
         <h1>Name: Vasu Pambhar</h1>
-        <Link href="#">Github Link</Link>
+        Github: <Link className="underline" href="https://github.com/VasuPambhar/cprg306-assignments">VasuPambhar/cprg306-assignments</Link>
       </section>
     </main>
   );
