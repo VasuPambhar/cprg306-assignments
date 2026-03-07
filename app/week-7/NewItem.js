@@ -10,7 +10,7 @@ export default function NewItem({ onAddItem }) {
 
   const handleChange = (e) => {
   const { name, value } = e.target;
-    setItem((prev) => ({ ...prev, [name]: value }));
+  setItem((prev) => ({ ...prev, [name]: value }));
   };
 
   const handleSubmit = (event) => {
