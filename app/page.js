@@ -15,7 +15,8 @@ export default function Home() {
         <Link href="week-6" className="py-5 border-3 px-7 rounded-4xl mb-5">Go to Week-6</Link>
         <Link href="week-7" className="py-5 border-3 px-7 rounded-4xl mb-5">Go to Week-7</Link>
         <Link href="week-8" className="py-5 border-3 px-7 rounded-4xl mb-5">Go to Week-8</Link>
-        <Link href="week-9" className="py-5 border-3 px-7 rounded-4xl">Go to Week-9</Link>
+        <Link href="week-9" className="py-5 border-3 px-7 rounded-4xl mb-5">Go to Week-9</Link>
+        <Link href="week-10" className="py-5 border-3 px-7 rounded-4xl">Go to Week-10</Link>
 
 
       </section>
